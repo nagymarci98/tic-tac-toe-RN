@@ -1,0 +1,12 @@
+node_modules
+ios
+android
+__tests__
+
+.git
+.bundle
+.vscode
+
+
+package-lock.json
+
