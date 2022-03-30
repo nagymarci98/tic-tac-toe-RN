@@ -1,3 +1,3 @@
-let x
+const x
 
 export {}
